@@ -8,32 +8,32 @@
 
 天天开源的前⾝是新致开源，最早于2022年6⽉发布开源医疗软件平台OpenHIS.org.cn，于2023年6⽉发布开源企业软件平台OpenCOM.com.cn。2025年7⽉，新致开源品牌更新为天天开源，我们始终秉持开源、专业、协作的理念，致⼒于为医疗、教育、中⼩企业等⾏业提供优质的开源解决⽅案。
 
-了解我们：https://open.tntlinking.com/about?site=gitee
+了解我们：https://open.tntlinking.com/about?site=github
 
 ## 💾【部署包下载】
 
-请访问官网产品中心下载部署包：https://open.tntlinking.com/resource/productCenter?site=gitee
+请访问官网产品中心下载部署包：https://open.tntlinking.com/resource/productCenter?site=github
 
 ## 📚【支持文档】
 
-技术支持资源：https://open.tntlinking.com/resource/technicalSupport?site=gitee
+技术支持资源：https://open.tntlinking.com/resource/technicalSupport?site=github
 （含演示环境、操作手册、部署手册、开发手册、常见问题等）
 
-产品介绍：https://open.tntlinking.com/resource/industryKnowledge?site=gitee
+产品介绍：https://open.tntlinking.com/resource/industryKnowledge?site=github
 
-操作教程：https://open.tntlinking.com/resource/operationTutorial?site=gitee
+操作教程：https://open.tntlinking.com/resource/operationTutorial?site=github
 
-沙龙回顾：https://open.tntlinking.com/resource/openSourceSalon#23?site=gitee
+沙龙回顾：https://open.tntlinking.com/resource/openSourceSalon#23?site=github
 
 ## 🤝【合作方式】
 
-产品服务价格：https://open.tntlinking.com/cost?site=gitee
+产品服务价格：https://open.tntlinking.com/cost?site=github
 
-加入生态伙伴：https://open.tntlinking.com/ecology/becomePartner?site=gitee
+加入生态伙伴：https://open.tntlinking.com/ecology/becomePartner?site=github
 
 ## 🤗【技术社区】
 
-请访问官网扫码加入技术社区交流：https://open.tntlinking.com/ecology/joinCommunity?site=gitee
+请访问官网扫码加入技术社区交流：https://open.tntlinking.com/ecology/joinCommunity?site=github
 
 请关注公众号【天天开源软件】以便获得最新产品更新信息。
 
